@@ -56,3 +56,61 @@ nav {
   width: 474.03px;
   height: 400px;
 }
+.section-1 {
+    margin: 80px 160px;
+}
+.vision-full {
+    display: flex;
+    justify-content: space-between;
+}
+.vision-1 {
+    height: 300px;
+    width: 350px;
+    background-color: #b7cdf5;
+    border-radius: 16px;
+    padding: 32px;
+    margin: 32px 0;
+}
+.learn-1 {
+    width: 142px;
+    height: 41px;
+    background-color: #5490F5;
+    color: #FFFFFF;
+    border-radius: 8px;
+    border: none;
+    margin-top: 24px;
+}
+.vision-2 {
+    height: 300px;
+    width: 350px;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    padding: 32px;
+    margin: 32px 0; 
+}
+.learn-2 {
+    width: 142px;
+    height: 41px;
+    background-color: #09A15C;
+    color: #FFFFFF;
+    border-radius: 8px;
+    border: none;
+    margin-top: 24px;
+}
+.vision-3 {
+    height: 300px;
+    width: 350px;
+    background-color: #F7EBCF;
+    border-radius: 16px;
+    padding: 32px;
+    margin: 32px 0; 
+}
+.learn-3 {
+    width: 142px;
+    height: 41px;
+    background-color: #FFC239;
+    color: #FFFFFF;
+    border-radius: 8px;
+    border: none; 
+    margin-top: 24px;
+}
