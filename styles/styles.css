@@ -144,4 +144,27 @@ nav {
     border-radius: 8px;
     background-color: #006A50;
     color: #FFFFFF;
+    margin: 32px 0 0 0;
+    cursor: pointer;
+}
+.donate {
+    margin: 80px 160px;
+    text-align: center;
+}
+.taka {
+    width: 240px;
+    height: 128px;
+    border-radius: 16px;
+    font-size: larger;
+    font-weight: bold;
+    }
+    .taka:hover {
+        background-color: #FFC239;
+        cursor: pointer;
+    }
+.sub {
+    width: 1032px;
+    justify-content: center;
+    margin: 32px 0 0 0;
+    text-align: center;
 }
