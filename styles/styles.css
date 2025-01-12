@@ -8,8 +8,10 @@
     max-width: 116px;
     max-height: 52px;
     border-radius: 8px;
+    background-color: #FFFFFF;
     color: #006A50;
-    border: 2px;
+    border: 5px;
+    border-color: #006A50;
 }
 
 
@@ -64,8 +66,8 @@ nav {
     justify-content: space-between;
 }
 .vision-1 {
-    height: 300px;
-    width: 350px;
+    height: 250px;
+    width: 300px;
     background-color: #b7cdf5;
     border-radius: 16px;
     padding: 32px;
@@ -81,8 +83,8 @@ nav {
     margin-top: 24px;
 }
 .vision-2 {
-    height: 300px;
-    width: 350px;
+    height: 250px;
+    width: 300px;
     background-color: #C6E4D6;
     border-radius: 16px;
     padding: 32px;
@@ -98,8 +100,8 @@ nav {
     margin-top: 24px;
 }
 .vision-3 {
-    height: 300px;
-    width: 350px;
+    height: 250px;
+    width: 300px;
     background-color: #F7EBCF;
     border-radius: 16px;
     padding: 32px;
@@ -162,9 +164,50 @@ nav {
         background-color: #FFC239;
         cursor: pointer;
     }
-.sub {
-    width: 1032px;
+.container {
+    margin: 20px;
     justify-content: center;
-    margin: 32px 0 0 0;
-    text-align: center;
+    border-width: 1032px;
 }
+.last {
+    margin: 80px 160px;
+    text-align: center;
+    background-color: #C6E4D6;
+    padding: 80px 100px;
+    border-radius: 24px;
+}
+.place {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+
+  input[type="email"] {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    width: 600px;
+  }
+
+  button {
+    background-color: #2e7d32;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  .para {
+    font-size: 16px;
+    color: #0E0E0E;
+  }
+  .foot {
+    text-align: center;
+    background-color: #FFFFFF;
+  }
+  .icon {
+    font-size: larger;
+    margin: 20px;
+    color: ;
+  }
